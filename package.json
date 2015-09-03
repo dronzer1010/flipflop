@@ -1,0 +1,28 @@
+{
+  "name": "flipflop",
+  "version": "1.0.0",
+  "description": "This is a REST API server based on Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies":{
+    "express":"latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dronzer1010/flipflop.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "MEAN",
+    "REST",
+    "API"
+  ],
+  "author": "dronzer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dronzer1010/flipflop/issues"
+  },
+  "homepage": "https://github.com/dronzer1010/flipflop#readme"
+}
